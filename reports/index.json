@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260426-090857-mpon",
+      "title": "Jerichoya, Meiguii",
+      "commanders": [
+        "Jerichoya",
+        "Meiguii"
+      ],
+      "dateStart": "2026-04-26T13:08:57.000Z",
+      "dateEnd": "2026-04-26T14:35:50.000Z",
+      "dateLabel": "4/26/2026, 9:08:57 AM - 4/26/2026, 10:35:50 AM",
+      "url": "https://thairyneva.github.io/WvWLogs/?report=20260426-090857-mpon",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260425-233346-5i0h",
       "title": "Deshka Stormblessed, Vape Onion Star",
       "commanders": [
