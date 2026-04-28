@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260426-201457-r66n",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "dateStart": "2026-04-27T00:14:57.000Z",
+      "dateEnd": "2026-04-27T01:50:09.000Z",
+      "dateLabel": "4/26/2026, 8:14:57 PM - 4/26/2026, 9:50:09 PM",
+      "url": "https://thairyneva.github.io/WvWLogs/?report=20260426-201457-r66n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260426-090857-mpon",
       "title": "Jerichoya, Meiguii",
       "commanders": [
