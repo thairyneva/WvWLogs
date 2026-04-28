@@ -1,1 +1,29 @@
-[]
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260424-223343-t3r7",
+      "title": "Stroke My Kitteh",
+      "commanders": [
+        "Stroke My Kitteh"
+      ],
+      "dateStart": "2026-04-25T02:33:43.000Z",
+      "dateEnd": "2026-04-25T03:16:39.000Z",
+      "dateLabel": "4/24/2026, 10:33:43 PM - 4/24/2026, 11:16:39 PM",
+      "url": "https://thairyneva.github.io/WvWLogs/?report=20260424-223343-t3r7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 23
+      }
+    }
+  ]
+}
