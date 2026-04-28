@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260427-223729-n1fq",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-04-28T02:37:29.000Z",
+      "dateEnd": "2026-04-28T03:08:24.000Z",
+      "dateLabel": "4/27/2026, 10:37:29 PM - 4/27/2026, 11:08:24 PM",
+      "url": "https://thairyneva.github.io/WvWLogs/?report=20260427-223729-n1fq",
+      "summary": {
+        "borderlandsPct": 0.027777777777777776,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260427-223729-b5d6",
       "title": "Paralda",
       "commanders": [
