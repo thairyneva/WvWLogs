@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260425-092520-okzq",
+      "title": "Jerichoya, Wîhok",
+      "commanders": [
+        "Jerichoya",
+        "Wîhok"
+      ],
+      "dateStart": "2026-04-25T13:25:20.000Z",
+      "dateEnd": "2026-04-25T15:10:34.000Z",
+      "dateLabel": "4/25/2026, 9:25:20 AM - 4/25/2026, 11:10:34 AM",
+      "url": "https://thairyneva.github.io/WvWLogs/?report=20260425-092520-okzq",
+      "summary": {
+        "borderlandsPct": 0.42105263157894735,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 66
+      }
+    },
+    {
       "id": "20260424-232708-yuql",
       "title": "On Desh",
       "commanders": [
