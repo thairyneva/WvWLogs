@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260425-233346-5i0h",
+      "title": "Deshka Stormblessed, Vape Onion Star",
+      "commanders": [
+        "Deshka Stormblessed",
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-04-26T03:33:46.000Z",
+      "dateEnd": "2026-04-26T04:19:31.000Z",
+      "dateLabel": "4/25/2026, 11:33:46 PM - 4/26/2026, 12:19:31 AM",
+      "url": "https://thairyneva.github.io/WvWLogs/?report=20260425-233346-5i0h",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260425-200211-9lpu",
       "title": "B U B B L E C A R, Dxshka Vol, On Desh",
       "commanders": [
