@@ -3,6 +3,36 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260425-200211-9lpu",
+      "title": "B U B B L E C A R, Dxshka Vol, On Desh",
+      "commanders": [
+        "B U B B L E C A R",
+        "Dxshka Vol",
+        "On Desh"
+      ],
+      "dateStart": "2026-04-26T00:02:11.000Z",
+      "dateEnd": "2026-04-26T02:58:07.000Z",
+      "dateLabel": "4/25/2026, 8:02:11 PM - 4/25/2026, 10:58:07 PM",
+      "url": "https://thairyneva.github.io/WvWLogs/?report=20260425-200211-9lpu",
+      "summary": {
+        "borderlandsPct": 0.9655172413793104,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 28,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260425-092520-okzq",
       "title": "Jerichoya, Wîhok",
       "commanders": [
