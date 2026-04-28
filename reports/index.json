@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260424-232708-yuql",
+      "title": "On Desh",
+      "commanders": [
+        "On Desh"
+      ],
+      "dateStart": "2026-04-25T03:27:08.000Z",
+      "dateEnd": "2026-04-25T04:28:01.000Z",
+      "dateLabel": "4/24/2026, 11:27:08 PM - 4/25/2026, 12:28:01 AM",
+      "url": "https://thairyneva.github.io/WvWLogs/?report=20260424-232708-yuql",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260424-223343-t3r7",
       "title": "Stroke My Kitteh",
       "commanders": [
